@@ -1,0 +1,96 @@
+.main-header {
+    background-color:white;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.imgqs{
+
+   
+    background-color: white;
+}
+
+
+.content-section {
+  margin-left: -150%;
+}
+
+.section-header {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: normal;
+    color: #333;
+    text-align: center;
+    font-size: 3.5em;
+}
+
+.shop-item {
+    margin: 30px;
+}
+.carousel-item{
+    margin-left: -15%;
+    margin-top: -5%;
+}
+
+
+.shop-item-title {
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5em;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.shop-item-image {
+    height: 95%;
+    width:  95%;
+}
+
+.shop-item-details {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}
+
+.shop-item-price {
+    flex-grow: 1;
+    color: #333;
+    font-size: 200%
+}
+
+.shop-items {
+    display: flex;
+   ;
+    justify-content: space-around;
+}
+
+.shop-item-button {
+    background-color:#EAB1A4;
+    border: none;
+    color:black;
+    padding: 15px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-right: 13px;
+  }
+  .shop-item-button:hover{
+    background-color:#E27268;
+}
+.shop-item-button:active{
+    background-color: #BB3A3B
+}
+
+.carousel-caption{
+    margin: 0%;
+}
+.content-section2{
+    
+    margin: 10% 150%;
+}
